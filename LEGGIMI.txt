@@ -1,0 +1,5 @@
+STUDIA AI — file da caricare su GitHub Pages (o Netlify/Cloudflare)
+====================================================================
+Carica TUTTI i file di questa cartella nella radice del sito.
+index.html è la pagina principale; manifest.json + sw.js + icone servono
+per l'installazione su iPhone ("Aggiungi a Home") e per l'uso offline.
